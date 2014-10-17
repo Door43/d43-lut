@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lut:home|Door43 (lut)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lut|d43-lut repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lut/archive/master.zip|d43-lut.zip]]
+
+**Recent Changes**
+{{changes>ns = lut}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lut|Ethnologue data]]
+
